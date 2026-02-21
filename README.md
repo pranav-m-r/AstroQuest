@@ -2,7 +2,7 @@
 Hey there! Want to go on a quest through the cosmos?
 
 #### Designed & developed by [Pranav M R](https://github.com/pranav-m-r)
-#### Available for download on [Google Play](https://play.google.com/store/apps/details?id=com.pranavmr.celestium)
+#### Available for download on [Google Play](https://play.google.com/store/apps/details?id=com.pranavmr.celestium) [NOT MAINTAINED]
 
 ![Banner](<brand/TV Banner.png>)
 
